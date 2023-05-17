@@ -172,6 +172,9 @@ footer {
 }
 
 @media only screen and (max-width: 900px) {
+    main {
+        height: auto;
+    }
     .row {
         padding: 0 30px;
         flex-flow: row wrap;
